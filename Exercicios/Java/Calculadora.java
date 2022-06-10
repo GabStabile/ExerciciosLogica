@@ -1,4 +1,4 @@
-package exercicios;
+package Java;
 
 //Classe de exemplo para o exercico da aula 1 de Metodos
 

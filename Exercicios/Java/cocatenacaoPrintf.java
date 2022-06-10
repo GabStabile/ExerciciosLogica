@@ -3,7 +3,7 @@
 	Regra geral para printf:
 */
 
-package exercicios;
+package Java;
 
 public class cocatenacaoPrintf {
 	

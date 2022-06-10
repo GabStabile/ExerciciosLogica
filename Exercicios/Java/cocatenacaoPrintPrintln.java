@@ -3,7 +3,7 @@
 	Regra geral para print e println (println quebra linha de texto):
 */
 
-package exercicios;
+package Java;
 import java.util.Locale;
 
 public class cocatenacaoPrintPrintln {

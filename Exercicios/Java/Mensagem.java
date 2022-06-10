@@ -1,7 +1,9 @@
-public class Mensagem {
+package Java;
+
+public class mensagem {
 
     public static void obterMensagem(int hora){
-//a classe nesse caso, mostra a hora de acordo com o horário do dia
+    //a classe nesse caso, mostra a hora de acordo com o horário do dia
         switch (hora) {
             case 5:
             case 6:
