@@ -2,18 +2,17 @@ package Java;
 
 import java.util.Scanner;
 
-public class exSoma {
+public class exDistancia {
 	
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
 		
-		int x = sc.nextInt();
-		int y = sc.nextInt();
-			
-		int soma = x + y;
-			
-		System.out.printf("SOMA = %d", soma);
+		int km = sc.nextInt();
+		
+		int calc = km * 2; 
+		
+		System.out.printf("%d minutos", calc);
 		
 		sc.close();
 	}

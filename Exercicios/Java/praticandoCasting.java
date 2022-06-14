@@ -1,4 +1,4 @@
-/* Praticando Casting: atribuir o valor de um tipo de vari�vel a outro tipo de vari�vel */
+/* Praticando Casting: atribuir o valor de um tipo de variavel a outro tipo de variavel */
 
 package Java;
 
