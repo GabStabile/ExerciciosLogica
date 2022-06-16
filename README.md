@@ -1,6 +1,8 @@
 <h1 align="center">
   Exercícios de lógica
-  <img alt="Gab-Js" src="https://user-images.githubusercontent.com/92516683/160480953-86bc6099-34af-4da2-9ff0-cf4a31b715a1.svg" width="20px">
+  <a href="https://i.gifer.com/VZvw.gif"> 
+    <img alt="Gab-Js" src="https://user-images.githubusercontent.com/92516683/173963013-b89a4627-a2c2-44a6-9a52-d4e47771d20f.gif" height="21px" width="21px">
+  </a>
 </h1>
 
 <p>
