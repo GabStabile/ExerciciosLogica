@@ -24,11 +24,9 @@ public class planoTelefonia {
 		}
 		
 		else if (minutos > 100) {
-			conta += (minutos - 100) * 2.0;  
+			conta = conta + (minutos - 100) * 2.0;  
 			System.out.printf("Valor a pagar: R$ %.2f", conta);
 		}
-		
-		
 		sc.close();
 	}
 }
